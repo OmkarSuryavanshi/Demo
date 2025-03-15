@@ -1,4 +1,4 @@
 # Demo
-Author : Omkar (2d Game)
+Author : Omkar Suryavanshi
 <br>
 Purpose : Personal CV project
